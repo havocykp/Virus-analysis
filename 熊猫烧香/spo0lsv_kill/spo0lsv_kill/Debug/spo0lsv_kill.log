@@ -1,0 +1,5 @@
+﻿  spo0lsv_killDlg.cpp
+d:\repository\final\spo0lsv_kill\spo0lsv_kill\spo0lsv_killdlg.cpp(225): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\repository\final\spo0lsv_kill\spo0lsv_kill\spo0lsv_killdlg.cpp(230): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  spo0lsv_kill.vcxproj -> D:\Repository\Final\spo0lsv_kill\Debug\spo0lsv_kill.exe
+  spo0lsv_kill.vcxproj -> D:\Repository\Final\spo0lsv_kill\Debug\spo0lsv_kill.pdb (Partial PDB)
